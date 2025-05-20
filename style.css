@@ -15,7 +15,7 @@ img:hover {
 }
 
 h1:hover {
-  text-decoration: overline wavy blue 20px;
+  text-decoration: underline wavy blue 20px;
   font-size: 50px;
   text-transform: uppercase;
 }
